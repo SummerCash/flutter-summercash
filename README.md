@@ -1,13 +1,7 @@
-# SummerCash Mobile
+# Flutter SummerCash
 
-The SummerCash native mobile wallet.
+The SummerCash mobile wallet.
 
 ## About
 
-SummerCash Mobile is an iOS and android native SummerCash non-custodial wallet.
-
-## Usage
-
-```zsh
-go get -u # Update deps
-```
+SummerCash Mobile is an iOS and android SummerCash wallet.
